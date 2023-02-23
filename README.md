@@ -1,1 +1,1 @@
-Este es una practica con react-redux junto con RTKquery, siguiendo un curso de Fernando Herrera
+Este es una practica con react-redux-toolkits junto con RTKquery, siguiendo un curso de Fernando Herrera
